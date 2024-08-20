@@ -6,8 +6,8 @@ Kalkulator Kredytowy to narzędzie wiersza poleceń napisane w Pythonie, które 
 
 To narzędzie obsługuje dwa rodzaje obliczeń płatności:
 
-1. **Płatności Annuity (Raty Stałe)**
-2. **Płatności Różnicowane**
+1. **Płatności w ratach stale**
+2. **Płatności w ratach malejaceh**
 
 ### Argumenty wiersza poleceń
 
@@ -21,8 +21,8 @@ Program akceptuje następujące argumenty wiersza poleceń:
 
 ### Zasady ogólne
 
-- W przypadku **Płatności Annuity** (`--type=annuity`) musisz podać dokładnie trzy z czterech parametrów: `--principal`, `--payment`, `--periods`, `--interest`. Program obliczy brakujący czwarty parametr.
-- W przypadku **Płatności Różnicowanych** (`--type=diff`) musisz podać `--principal`, `--periods` oraz `--interest`. Parametr `--payment` nie jest używany w tym przypadku.
+- W przypadku **Płatności stale** (`--type=annuity`) musisz podać dokładnie trzy z czterech parametrów: `--principal`, `--payment`, `--periods`, `--interest`. Program obliczy brakujący czwarty parametr.
+- W przypadku **Płatności malejace** (`--type=diff`) musisz podać `--principal`, `--periods` oraz `--interest`. Parametr `--payment` nie jest używany w tym przypadku.
 
 ### Przykłady użycia
 
