@@ -6,8 +6,8 @@ Kalkulator Kredytowy to narzędzie wiersza poleceń napisane w Pythonie, które 
 
 To narzędzie obsługuje dwa rodzaje obliczeń płatności:
 
-1. **Płatności w ratach stale**
-2. **Płatności w ratach malejaceh**
+1. **Płatności w ratach stalych**
+2. **Płatności w ratach malejacych**
 
 ### Argumenty wiersza poleceń
 
