@@ -1,6 +1,6 @@
 # Kalkulator Kredytowy
 
-Kalkulator Kredytowy to narzędzie wiersza poleceń napisane w Pythonie, które umożliwia obliczanie różnych aspektów kredytu, takich jak wysokość miesięcznej raty, kwota główna kredytu, liczba okresów potrzebnych do spłaty kredytu lub kwota nadpłaty.
+Kalkulator Kredytowy to narzędzie  napisane w Pythonie, które umożliwia obliczanie różnych aspektów kredytu, takich jak wysokość miesięcznej raty, rata kredytu, liczba okresów potrzebnych do spłaty kredytu lub kwota nadpłaty.
 
 ## Użycie
 
